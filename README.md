@@ -12,6 +12,8 @@
   <img src="https://github-readme-stats.vercel.app/api/?username=rondagdag&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rondagdag&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **rondagdag/rondagdag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
