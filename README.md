@@ -1,6 +1,5 @@
-### Hi there 👋
-
-<p align="center">
+![Peek 2020-07-09 15-53](https://raw.githubusercontent.com/rondagdag/rondagdag/master/nameisrondagdag.gif)
+<p align="left">
 <a href= "https://www.hackster.io/RONDAGDAG"><img src="https://img.icons8.com/material-outlined/26/000000/ball-point-pen.png"/></a>
 <a href= "https://www.linkedin.com/in/rondagdag/"><img src="https://img.icons8.com/material-outlined/30/000000/linkedin.png"/></a>
 <a href= "https://www.youtube.com/c/rondagdag"><img src="https://img.icons8.com/material-outlined/30/000000/youtube.png"/></a>
@@ -18,6 +17,7 @@
 **rondagdag/rondagdag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+### Hi there 👋
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
