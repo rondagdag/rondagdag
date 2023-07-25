@@ -7,9 +7,9 @@
 <a href= "https://twitter.com/rondagdag"><img src="https://img.icons8.com/material-outlined/30/000000/twitter.png"/></a>
 </p>
 
-<p  align="center">
+<!--<p  align="center">
   <img src="https://github-readme-stats.vercel.app/api/?username=rondagdag&show_icons=true&title_color=fffffff&icon_color=000000&text_color=000000" alt="github stats"/></br>
-</p>
+</p>-->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rondagdag&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
